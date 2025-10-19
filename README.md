@@ -80,6 +80,12 @@ Tap the bookmark icon → article saved or removed from Core Data.
 
 On relaunch, bookmarks persist from Core Data storage.
 
+7. Unit tests are implemented for:
+
+ArticleRepository (fetch, save, bookmark logic)
+
+CoreData in-memory persistence
+
 Build and run the app:
 
 Minimum iOS Version: iOS 18
