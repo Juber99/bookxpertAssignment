@@ -88,7 +88,7 @@ CoreData in-memory persistence
 
 Build and run the app:
 
-Minimum iOS Version: iOS 18
+Minimum iOS Version: iOS 26
 
 Xcode Version: Xcode 26 or later
 
